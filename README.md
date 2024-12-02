@@ -7,7 +7,7 @@ from the paper:
 
 Cohn, A.G., and Blackwell, R.E., 2024. Can Large Language Models
 Reason about the Region Connection Calculus? arXiv preprint
-arXiv:XXXXXXXX.
+[arXiv:2411.19589](https://arxiv.org/abs/2411.19589).
 
 ## Data
 
